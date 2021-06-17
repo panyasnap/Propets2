@@ -1,0 +1,49 @@
+.infoText {
+    /*width: 100%;*/
+    /*height: 260px;*/
+    background-color: #669885;
+    /*text-align: center;*/
+    font-size: 2rem;
+    color: #FFFFFF;
+
+}
+
+.divText {
+    /*display: flex;*/
+    /*justify-content: center;*/
+    /*margin-left: 4em;*/
+    /*margin-right: 4em;*/
+    /*left: 261px;*/
+    /*height: 92px;*/
+    text-align: center;
+
+}
+
+.imgMainPets {
+    /*top: 1008px;*/
+    /*left: 113px;*/
+    /*width: 480px;*/
+    /*height: 322px;*/
+    background-image: url("/src/img/8347.png");
+    background-repeat: no-repeat, repeat;
+}
+
+
+
+.ComingSoon {
+    /*width: 100%;*/
+    /*height: 125px;*/
+    background-color: #FF6F61;
+    color: #FFFFFF;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+.liTextH1 {
+    color: #669885
+}
+.ulStyle li::marker {
+    color: #84B6A3;
+    font-size: 1.5em;
+}

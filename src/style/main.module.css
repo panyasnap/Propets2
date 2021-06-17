@@ -1,0 +1,76 @@
+.h1Div{
+    /*top: 169px;*/
+    /*left: 140px;*/
+    /*width: 550px;*/
+    /*height: 204px;*/
+    /*margin-top: 99px;*/
+    /*margin-left: 126px;*/
+    text-align: left;
+}
+.h1Div1{
+    /*top: 0px;*/
+    /*left: 0px;*/
+    /*width: 485px;*/
+    /*height: 68px;*/
+
+    text-align: left;
+    letter-spacing: 0px;
+    color: #393939;
+    margin: 0;
+    /*font-size: 3rem;*/
+
+}
+.h1Div2{
+    text-align: left;
+    letter-spacing: 0px;
+    color: #84B6A3;
+    margin: 0;
+    /*font-size: 3rem;*/
+
+}
+.h1Div3{
+    text-align: left;
+    color: #393939;
+    margin: 0;
+    /*font-size: 3rem;*/
+
+}
+
+.LostPetButton{
+    /*top: 423px;*/
+    /*width: 544px;*/
+    height: 93px;
+
+    background: #FFE18B 0% 0% no-repeat padding-box;
+    opacity: 1;
+    border-bottom-right-radius: 50px;
+    border-top-right-radius: 50px;
+    border: #FFE18B;
+    font-size: 1.5rem;
+
+    background-image: url("/src/img/Group 11.svg") ;
+    background-position: right;
+    /*text-align: left;*/
+
+}
+
+.FoundPetButton{
+
+    /*top: 507px;*/
+    /*width: 470px;*/
+    height: 93px;
+    font-size: 1.5rem;
+
+    background: #84B6A3 0% 0% no-repeat padding-box;
+    /*margin-left: 0;*/
+    border-bottom-right-radius: 50px;
+    border-top-right-radius: 50px;
+    border: #8DBFAC;
+    color: #FFFFFF;
+    /*text-align: left;*/
+
+}
+
+.DivButton{
+    /*margin-left: -210px;*/
+}

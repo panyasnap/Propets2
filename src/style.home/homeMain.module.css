@@ -1,0 +1,25 @@
+.ButtonCancel{
+    border: 1px solid #8DBFAC;
+    border-radius: 17px;
+    opacity: 1;
+    color: #84B6A3;
+    width: 105px;
+    height: 34px;
+    background-color: #FFFFFF;
+}
+
+.ButtonSave{
+    background: #84B6A3 0% 0% no-repeat padding-box;
+    border: 1px solid #8DBFAC;
+    border-radius: 17px;
+    opacity: 1;
+    color: #FFFFFF;
+    width: 148px;
+    height: 34px;
+}
+
+.homeBorder{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+}

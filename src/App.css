@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+@media screen and (min-width: 768px) {
+
+.main {
+    background-image: url("/src/img/Image 2.png");
+    /*top: 30px;*/
+    /*left: 754px;*/
+    /*width: 452px;*/
+    height: 596px;
+    opacity: 1;
+    background-repeat: no-repeat, repeat;
+}
+}
+.bm-overlay{
+position: absolute;
+}
+.imgMainPets{
+
+    /*width: 480px;*/
+    height: 322px;
+    background-image: url("/src/img/8347.png");
+    background-repeat: no-repeat, repeat;
+}
+
+a:link {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration:none;
+}
+
+
+select{
+    border-style: none;
+}
+
+.page_post_image {
+    margin: 14px 0 0 8px;
+    max-width: 472px;
+    max-height: 300px;
+    overflow: hidden;
+}
+.viv{
+    width: 100px;
+    margin-left: 50px;
+}

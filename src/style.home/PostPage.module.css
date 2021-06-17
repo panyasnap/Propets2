@@ -1,0 +1,72 @@
+.postPage {
+    background-color: #FFFFFF;
+    color: #393939;
+
+}
+
+.inputForm {
+    border: none;
+    border-bottom: 2px solid #84B6A3;
+    margin-right: auto;
+
+}
+
+.TextAria {
+    color: #BABABA;
+
+}
+
+.TextH1 {
+    color: #669885;
+}
+
+.GreenText {
+    color: #84B6A3;
+    font-size: 0.6rem;
+}
+
+.buttonText {
+    background: #84B6A3 0% 0% no-repeat padding-box;
+    border: 1px solid #8DBFAC;
+    border-radius: 17px;
+    opacity: 1;
+    width: 148px;
+    height: 34px;
+    color: #FFFFFF;
+}
+
+.li {
+    list-style: none;
+}
+
+.boxPost {
+    box-shadow: 0px 3px 6px #00000029;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+}
+
+.imgAvatar {
+    border-radius: 50%;
+    height: 2rem;
+    width: 2rem;
+}
+
+.loadingPage {
+    height: 100vh;
+}
+
+.imgPost {
+    /*position: relative;*/
+    display: flex;
+    height: 250px;
+    align-content: center;
+    /*width: 100%;*/
+    overflow: hidden;
+
+}
+
+.boxPostLostImg{
+    height: 250px;
+    align-content: center;
+    overflow: hidden;
+    display: flex;
+}
