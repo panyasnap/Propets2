@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Propets2/static/css/main.305549fb.chunk.css",
+    "main.js": "/Propets2/static/js/main.8ee8dcda.chunk.js",
+    "main.js.map": "/Propets2/static/js/main.8ee8dcda.chunk.js.map",
+    "runtime-main.js": "/Propets2/static/js/runtime-main.03a57f0c.js",
+    "runtime-main.js.map": "/Propets2/static/js/runtime-main.03a57f0c.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Propets2/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.6c8ed9c1.chunk.js": "/Propets2/static/js/2.6c8ed9c1.chunk.js",
+    "static/js/2.6c8ed9c1.chunk.js.map": "/Propets2/static/js/2.6c8ed9c1.chunk.js.map",
+    "static/js/3.f5dc09c0.chunk.js": "/Propets2/static/js/3.f5dc09c0.chunk.js",
+    "static/js/3.f5dc09c0.chunk.js.map": "/Propets2/static/js/3.f5dc09c0.chunk.js.map",
+    "index.html": "/Propets2/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Propets2/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.305549fb.chunk.css.map": "/Propets2/static/css/main.305549fb.chunk.css.map",
+    "static/js/2.6c8ed9c1.chunk.js.LICENSE.txt": "/Propets2/static/js/2.6c8ed9c1.chunk.js.LICENSE.txt",
+    "static/media/5d0f82452ab6787e72d1754d8900.b946a331.png": "/Propets2/static/media/5d0f82452ab6787e72d1754d8900.b946a331.png",
+    "static/media/5d87fd0f82452ab6787e72d1754d8900.479e9e7f.png": "/Propets2/static/media/5d87fd0f82452ab6787e72d1754d8900.479e9e7f.png",
+    "static/media/App.css": "/Propets2/static/media/Image 2.7124c907.png",
+    "static/media/Group 1.a2df117e.svg": "/Propets2/static/media/Group 1.a2df117e.svg",
+    "static/media/main.module.css": "/Propets2/static/media/Group 11.fed9b943.svg",
+    "static/media/Group 2.bbabb7b8.svg": "/Propets2/static/media/Group 2.bbabb7b8.svg",
+    "static/media/Group 43.26981f58.svg": "/Propets2/static/media/Group 43.26981f58.svg",
+    "static/media/Group 87.df591367.svg": "/Propets2/static/media/Group 87.df591367.svg",
+    "static/media/KissCat6787e72d1754d8900.8429759b.png": "/Propets2/static/media/KissCat6787e72d1754d8900.8429759b.png",
+    "static/media/image_860306200308344459975.f8c0b36e.gif": "/Propets2/static/media/image_860306200308344459975.f8c0b36e.gif",
+    "static/media/image_861510180122018437582.452e5e03.gif": "/Propets2/static/media/image_861510180122018437582.452e5e03.gif",
+    "static/media/papug87e72d1754d8900.619fe447.png": "/Propets2/static/media/papug87e72d1754d8900.619fe447.png",
+    "static/media/source.0189b565.gif": "/Propets2/static/media/source.0189b565.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03a57f0c.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.6c8ed9c1.chunk.js",
+    "static/css/main.305549fb.chunk.css",
+    "static/js/main.8ee8dcda.chunk.js"
+  ]
+}
